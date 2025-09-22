@@ -1,0 +1,4 @@
+problemen:
+Grotere en complexere map of herbruikbare kaarten
+Key systeem terug brengen voor ultiem wapen
+Roadbloks implementeren (elke wapen kan roadblok breken na hit, als hit gedaan is is beurt over)
